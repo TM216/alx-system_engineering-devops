@@ -6,3 +6,4 @@ ls -a -l Display current directory contents, including hidden files Use the long
 ls -na Display current directory contents Long format with user and group IDs displayed numerically And hidden files (starting with .)
 mkdir create directory
 mv moving file and directory
+rm for deleting file
