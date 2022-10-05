@@ -7,3 +7,4 @@ ls -na Display current directory contents Long format with user and group IDs di
 mkdir create directory
 mv moving file and directory
 rm for deleting file
+rmdir deletin directory
