@@ -3,3 +3,4 @@
 [$ groups or id -Gn] prints all the groups the current user is part of
 [sudo chown user file] change the file ownership
 [touch ] create a empty file
+
