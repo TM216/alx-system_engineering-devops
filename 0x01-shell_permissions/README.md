@@ -1,3 +1,4 @@
 [su user] change the user ownership
-[whoami] show the effective username of the current user
+[whoami or id -un] show the effective username of the current user
+[$ groups or id -Gn] prints all the groups the current user is part of
 
