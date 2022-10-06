@@ -9,3 +9,4 @@ mv moving file and directory
 rm for deleting file
 rmdir deletin directory
 cd - change from current directory to the previous one
+ls -la . .. show a lists all files even ones hidden and the parent of the working directory
