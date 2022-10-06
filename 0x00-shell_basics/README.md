@@ -12,3 +12,4 @@ cd - change from current directory to the previous one
 ls -la . .. show a lists all files even ones hidden and the parent of the working directory
 file /[directory]/[filename] prints the type of the file named
 ln -s /bin/ls __ls__ Create a symbolic link
+cp -u *.html ..  copies all the HTML files from the current working directory to the parent of the working directory
