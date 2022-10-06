@@ -16,4 +16,4 @@ cp -u *.html ..  copies all the HTML files from the current working directory to
 mv [[:upper:]]* /tmp/u moves all files beginning with an uppercase letter to the directory u want
 rm ./*~ delete all files end with(~) 
 mkdir -p bb/nn/nn create a directoris in tree 
-
+ls -lamnv u can do lists the way u want
