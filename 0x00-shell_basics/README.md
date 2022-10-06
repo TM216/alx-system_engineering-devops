@@ -13,3 +13,4 @@ ls -la . .. show a lists all files even ones hidden and the parent of the workin
 file /[directory]/[filename] prints the type of the file named
 ln -s /bin/ls __ls__ Create a symbolic link
 cp -u *.html ..  copies all the HTML files from the current working directory to the parent of the working directory
+mv [[:upper:]]* /tmp/u moves all files beginning with an uppercase letter to the directory u want 
